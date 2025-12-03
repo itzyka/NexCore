@@ -1,0 +1,2 @@
+# NexCore
+Loging NexCore
